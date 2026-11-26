@@ -38,4 +38,16 @@ The interactive dashboard summarizes key operational KPIs, project status, and p
 - `Pivot_Analysis` — PivotTables and supporting analysis.
 - `Dashboard` — Interactive KPI dashboard.
 
+## Project Dashboard
+
+![Dashboard](dashboard.png)
+
+## Project Analysis
+
+![Project Analysis](project_analysis.png)
+
+## Department Analysis
+
+![Department Analysis](department_analysis.png)
+
 *Note: All company names and data used in this project are fictional and created for portfolio purposes.*
